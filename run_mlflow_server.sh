@@ -1,7 +1,6 @@
 
 export MLFLOW_S3_ENDPOINT_URL=https://storage.yandexcloud.net
 export AWS_ACCESS_KEY_ID=YCAJE8CKXGh8XKUmcmGHpV2CX
-export AWS_SECRET_ACCESS_KEY=YCNQmCkW71PeIVypo2YsF-4eIHhiRBZZN94pztrj
 export AWS_BUCKET_NAME=s3-student-mle-20240620-7af3548300
 export DB_DESTINATION_USER=mle_20240620_7af3548300
 export DB_DESTINATION_HOST=rc1b-uh7kdmcx67eomesf.mdb.yandexcloud.net
